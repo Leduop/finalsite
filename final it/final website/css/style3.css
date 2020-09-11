@@ -1,0 +1,28 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    width: 1140px;
+    font-family: radiance,Georgia,bitstream charter,serif;  
+   background-image: url(https://static.vecteezy.com/system/resources/previews/000/582/542/non_2x/vector-abstract-template-black-frame-layout-metallic-red-light-on-dark-background-modern-luxury-futuristic-technology-concept.jpg);
+   background-size: 1140px;
+   background-repeat: no-repeat;
+}
+.gallery{
+    float: none;
+    color: wheat;
+    display: inline-block;
+    text-align: center;
+}
+
+.foot{
+    padding-top: 5px ;
+    color:white;
+}
+
+.creator{
+    float:right;
+}
+
+.foot_contact{
+    float: left;
+}

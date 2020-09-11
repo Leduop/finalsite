@@ -1,0 +1,26 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    font-family: radiance,Georgia,bitstream charter,serif;
+    background-image: url(https://preview.redd.it/yynqoo5m4eh31.png?width=1920&format=png&auto=webp&s=b3693a9b16ed0ed18f6362489571b2a6ef5c04d1);
+    background-size: 1140px;
+    background-repeat: no-repeat;
+    width: 1140px;
+    position: relative;
+    max-height: 700px;
+    width: 100%;
+    height: auto;
+    top: 50%;
+    left: 0%;
+    object-fit: cover;
+    object-position: center;
+}
+.navbar-nav{
+    font-size: 30px;
+    margin-left: 15px;
+
+}
+.nav-item{
+    margin-left: 40px;
+}
+
